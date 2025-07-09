@@ -1,5 +1,9 @@
 # 🤖 Industrial Robot Control Application
 
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)
+[![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
 A Windows Forms desktop application for controlling industrial robots via serial communication (RS-232/RS-485). The program enables precise robot position control, jog movements, and real-time device status monitoring.
 
 ## ✨ Features
